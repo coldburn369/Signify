@@ -2,7 +2,7 @@
 GLOBAL BRANDS DATABASE ANALYSIS REPORT
 ============================================================
 
-Total Brands in Database: 39
+Total Brands in Database: 61
 
 ----------------------------------------
 BRANDS BY CATEGORY
@@ -10,9 +10,15 @@ BRANDS BY CATEGORY
 Technology: 7 brands
   Average Market Cap: $1,462,857,142,857
   Total Market Cap: $10,240,000,000,000
+Semiconductors: 2 brands
+  Average Market Cap: $1,000,000,000,000
+  Total Market Cap: $2,000,000,000,000
 Automotive: 6 brands
   Average Market Cap: $219,166,666,667
   Total Market Cap: $1,315,000,000,000
+Insurance: 1 brands
+  Average Market Cap: $900,000,000,000
+  Total Market Cap: $900,000,000,000
 Retail: 2 brands
   Average Market Cap: $450,000,000,000
   Total Market Cap: $900,000,000,000
@@ -37,18 +43,39 @@ Beverages: 2 brands
 Food & Beverages: 2 brands
   Average Market Cap: $230,000,000,000
   Total Market Cap: $460,000,000,000
+Entertainment: 3 brands
+  Average Market Cap: $125,000,000,000
+  Total Market Cap: $375,000,000,000
 Telecommunications: 2 brands
   Average Market Cap: $145,000,000,000
   Total Market Cap: $290,000,000,000
+Aerospace: 2 brands
+  Average Market Cap: $125,000,000,000
+  Total Market Cap: $250,000,000,000
+Cosmetics: 1 brands
+  Average Market Cap: $220,000,000,000
+  Total Market Cap: $220,000,000,000
 Apparel: 2 brands
   Average Market Cap: $107,500,000,000
   Total Market Cap: $215,000,000,000
+Alcoholic Beverages: 2 brands
+  Average Market Cap: $90,000,000,000
+  Total Market Cap: $180,000,000,000
 Food Service: 1 brands
   Average Market Cap: $180,000,000,000
   Total Market Cap: $180,000,000,000
-Airlines: 2 brands
-  Average Market Cap: $23,000,000,000
-  Total Market Cap: $46,000,000,000
+Logistics: 2 brands
+  Average Market Cap: $87,500,000,000
+  Total Market Cap: $175,000,000,000
+Hospitality: 2 brands
+  Average Market Cap: $57,500,000,000
+  Total Market Cap: $115,000,000,000
+Airlines: 3 brands
+  Average Market Cap: $18,000,000,000
+  Total Market Cap: $54,000,000,000
+Gaming: 1 brands
+  Average Market Cap: $40,000,000,000
+  Total Market Cap: $40,000,000,000
 Motorcycles: 1 brands
   Average Market Cap: $5,000,000,000
   Total Market Cap: $5,000,000,000
@@ -56,57 +83,73 @@ Motorcycles: 1 brands
 ----------------------------------------
 BRANDS BY COUNTRY
 ----------------------------------------
-United States: 24 brands
-France: 3 brands
-Germany: 3 brands
+United States: 35 brands
+France: 5 brands
+Germany: 4 brands
 Japan: 3 brands
+Italy: 2 brands
 South Korea: 2 brands
+Sweden: 2 brands
 Switzerland: 2 brands
 United Kingdom: 2 brands
+Belgium: 1 brands
+China: 1 brands
+Netherlands: 1 brands
+United Arab Emirates: 1 brands
 
 ----------------------------------------
 WESTERN ZODIAC DISTRIBUTION
 ----------------------------------------
-Virgo: 6 brands
-Gemini: 5 brands
-Capricorn: 5 brands
-Cancer: 5 brands
-Taurus: 3 brands
+Capricorn: 10 brands
+Virgo: 9 brands
+Gemini: 8 brands
+Cancer: 7 brands
+Taurus: 5 brands
+Leo: 5 brands
+Aries: 5 brands
+Libra: 4 brands
 Pisces: 3 brands
-Libra: 3 brands
-Leo: 3 brands
-Aries: 3 brands
-Aquarius: 2 brands
+Aquarius: 3 brands
 Scorpio: 1 brands
+Sagittarius: 1 brands
 
 ----------------------------------------
 CHINESE ZODIAC DISTRIBUTION
 ----------------------------------------
-Pig (Metal): 3 brands
-Dog (Fire): 2 brands
-Dragon (Fire): 2 brands
-Goat (Fire): 2 brands
-Ox (Fire): 2 brands
-Pig (Water): 2 brands
-Rooster (Earth): 2 brands
+Pig (Metal): 4 brands
+Dog (Fire): 3 brands
+Dragon (Fire): 3 brands
+Goat (Fire): 3 brands
+Ox (Fire): 3 brands
+Pig (Water): 3 brands
+Rabbit (Fire): 3 brands
+Rooster (Earth): 3 brands
+Dog (Metal): 2 brands
+Goat (Earth): 2 brands
+Goat (Water): 2 brands
+Rat (Wood): 2 brands
 Rooster (Fire): 2 brands
 Dog (Earth): 1 brands
-Dog (Metal): 1 brands
+Dog (Water): 1 brands
 Dog (Wood): 1 brands
 Dragon (Metal): 1 brands
 Dragon (Water): 1 brands
 Dragon (Wood): 1 brands
-Goat (Earth): 1 brands
-Goat (Water): 1 brands
+Goat (Wood): 1 brands
 Horse (Earth): 1 brands
 Horse (Metal): 1 brands
+Monkey (Earth): 1 brands
 Monkey (Wood): 1 brands
 Ox (Earth): 1 brands
-Rabbit (Fire): 1 brands
+Ox (Water): 1 brands
+Ox (Wood): 1 brands
+Pig (Earth): 1 brands
 Rabbit (Water): 1 brands
 Rabbit (Wood): 1 brands
 Rat (Earth): 1 brands
-Rat (Wood): 1 brands
+Rat (Water): 1 brands
+Rooster (Metal): 1 brands
+Rooster (Water): 1 brands
 Snake (Earth): 1 brands
 Snake (Wood): 1 brands
 Tiger (Earth): 1 brands
@@ -119,43 +162,43 @@ NUMEROLOGY ANALYSIS
 
 Life Path Numbers:
   Number 1: 5 brands
-  Number 2: 3 brands
-  Number 3: 5 brands
-  Number 4: 5 brands
-  Number 5: 5 brands
-  Number 6: 4 brands
-  Number 7: 2 brands
-  Number 8: 6 brands
-  Number 9: 4 brands
+  Number 2: 6 brands
+  Number 3: 6 brands
+  Number 4: 8 brands
+  Number 5: 7 brands
+  Number 6: 7 brands
+  Number 7: 5 brands
+  Number 8: 9 brands
+  Number 9: 8 brands
 
 Expression Numbers:
-  Number 1: 9 brands
-  Number 2: 6 brands
+  Number 1: 10 brands
+  Number 2: 9 brands
   Number 3: 2 brands
-  Number 4: 4 brands
-  Number 5: 1 brands
-  Number 6: 4 brands
-  Number 7: 4 brands
-  Number 8: 3 brands
-  Number 9: 4 brands
+  Number 4: 7 brands
+  Number 5: 4 brands
+  Number 6: 6 brands
+  Number 7: 6 brands
+  Number 8: 8 brands
+  Number 9: 7 brands
   Number 22: 1 brands
   Number 33: 1 brands
 
 Chaldean Numbers:
-  Number 1: 3 brands
-  Number 2: 4 brands
-  Number 3: 5 brands
-  Number 4: 4 brands
-  Number 5: 2 brands
-  Number 6: 2 brands
-  Number 7: 3 brands
-  Number 8: 5 brands
-  Number 9: 9 brands
+  Number 1: 4 brands
+  Number 2: 8 brands
+  Number 3: 8 brands
+  Number 4: 6 brands
+  Number 5: 3 brands
+  Number 6: 4 brands
+  Number 7: 7 brands
+  Number 8: 7 brands
+  Number 9: 12 brands
   Number 22: 1 brands
   Number 33: 1 brands
 
 ----------------------------------------
-FOUNDER INFORMATION (26 founders)
+FOUNDER INFORMATION (43 founders)
 ----------------------------------------
 Adidas AG: Adolf Dassler
   Born: 1900-11-03 (Scorpio)
@@ -165,48 +208,82 @@ Apple Inc.: Steve Jobs
   Born: 1955-02-24 (Pisces)
 BMW AG: Karl Rapp
   Born: 1882-09-24 (Libra)
+Berkshire Hathaway: Warren Buffett
+  Born: 1930-08-30 (Virgo)
+Boeing Company: William Boeing
+  Born: 1881-10-01 (Libra)
 Chanel S.A.: Gabrielle Chanel
   Born: 1883-08-19 (Leo)
+FedEx Corporation: Frederick W. Smith
+  Born: 1944-08-11 (Leo)
 Google LLC: Larry Page
   Born: 1973-03-26 (Aries)
+Gucci: Guccio Gucci
+  Born: 1881-03-26 (Aries)
 Harley-Davidson Inc.: William Harley
   Born: 1880-12-29 (Capricorn)
+Heineken N.V.: Gerard Adriaan Heineken
+  Born: 1841-02-09 (Aquarius)
 Hermès International: Thierry Hermès
   Born: 1801-01-10 (Capricorn)
+Hilton Worldwide: Conrad Hilton
+  Born: 1887-12-25 (Capricorn)
 Honda Motor Co.: Soichiro Honda
   Born: 1906-11-17 (Scorpio)
+Huawei Technologies: Ren Zhengfei
+  Born: 1944-10-25 (Scorpio)
 Hyundai Motor Company: Chung Ju-yung
   Born: 1915-11-25 (Sagittarius)
+IKEA: Ingvar Kamprad
+  Born: 1926-03-30 (Aries)
+Intel Corporation: Gordon Moore
+  Born: 1929-01-03 (Capricorn)
+L'Oréal S.A.: Eugène Schueller
+  Born: 1881-03-20 (Pisces)
 LVMH: Bernard Arnault
   Born: 1949-03-05 (Pisces)
+Marriott International: J.W. Marriott Sr.
+  Born: 1900-09-17 (Virgo)
 McDonald's Corporation: Ray Kroc
   Born: 1902-10-05 (Libra)
 Meta Platforms Inc.: Mark Zuckerberg
   Born: 1984-05-14 (Taurus)
 Microsoft Corporation: Bill Gates
   Born: 1955-10-28 (Scorpio)
+NVIDIA Corporation: Jensen Huang
+  Born: 1963-02-17 (Aquarius)
 Nestlé S.A.: Henri Nestlé
   Born: 1814-08-10 (Leo)
+Netflix Inc.: Reed Hastings
+  Born: 1960-10-08 (Libra)
 Nike Inc.: Phil Knight
   Born: 1938-02-24 (Pisces)
 PepsiCo Inc.: Caleb Bradham
   Born: 1867-05-27 (Gemini)
+Prada S.p.A.: Mario Prada
+  Born: 1883-05-12 (Taurus)
 Rolex SA: Hans Wilsdorf
   Born: 1881-03-22 (Aries)
 Samsung Electronics: Lee Byung-chul
   Born: 1910-02-12 (Aquarius)
 Sony Corporation: Akio Morita
   Born: 1921-01-26 (Aquarius)
+Spotify Technology: Daniel Ek
+  Born: 1983-02-21 (Pisces)
 Starbucks Corporation: Howard Schultz
   Born: 1953-07-19 (Cancer)
 Tesla Inc.: Elon Musk
   Born: 1971-06-28 (Cancer)
 The Coca-Cola Company: John Stith Pemberton
   Born: 1831-07-08 (Cancer)
+The Walt Disney Company: Walt Disney
+  Born: 1901-12-05 (Sagittarius)
 Toyota Motor Corporation: Kiichiro Toyoda
   Born: 1894-06-11 (Gemini)
 Unilever PLC: William Lever
   Born: 1851-09-19 (Virgo)
+United Parcel Service: James Casey
+  Born: 1888-03-29 (Aries)
 Walmart Inc.: Sam Walton
   Born: 1918-03-29 (Aries)
 
