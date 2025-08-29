@@ -1,0 +1,179 @@
+================================================================================
+COMPREHENSIVE AUTOMOTIVE BRANDS ANALYSIS
+================================================================================
+
+Total Automotive Brands in Database: 39
+Brands with Market Cap Data: 22
+Total Automotive Market Cap: $1,960,000,000,000
+Average Market Cap: $89,090,909,091
+
+============================================================
+TOP 10 MOST VALUABLE AUTOMOTIVE BRANDS
+============================================================
+ 1. Tesla Inc. (United States) - $800,000,000,000
+    Founded: 2003-07-01 | Zodiac: Cancer
+ 2. Toyota Motor Corporation (Japan) - $250,000,000,000
+    Founded: 1937-08-28 | Zodiac: Virgo
+ 3. Volkswagen AG (Germany) - $120,000,000,000
+    Founded: 1937-05-28 | Zodiac: Gemini
+ 4. Porsche AG (Germany) - $85,000,000,000
+    Founded: 1931-04-25 | Zodiac: Taurus
+ 5. Ferrari N.V. (Italy) - $75,000,000,000
+    Founded: 1939-09-13 | Zodiac: Virgo
+ 6. Mercedes-Benz Group AG (Germany) - $75,000,000,000
+    Founded: 1926-06-28 | Zodiac: Cancer
+ 7. Audi AG (Germany) - $65,000,000,000
+    Founded: 1909-07-16 | Zodiac: Cancer
+ 8. BMW AG (Germany) - $60,000,000,000
+    Founded: 1916-03-07 | Zodiac: Pisces
+ 9. General Motors (Chevrolet) (United States) - $60,000,000,000
+    Founded: 1911-11-03 | Zodiac: Scorpio
+10. Fiat Chrysler (Stellantis) (Italy) - $55,000,000,000
+    Founded: 1899-07-11 | Zodiac: Cancer
+
+============================================================
+AUTOMOTIVE BRANDS BY COUNTRY
+============================================================
+
+Japan: 8 brands
+  Total Market Cap: $386,000,000,000
+  Average Market Cap: $55,142,857,143
+  Brands: Toyota Motor Corporation, Honda Motor Co., Mazda Motor Corporation + 5 more
+
+United Kingdom: 6 brands
+  Total Market Cap: $2,000,000,000
+  Average Market Cap: $2,000,000,000
+  Brands: Jaguar Land Rover, Land Rover, Rolls-Royce Motor Cars + 3 more
+
+Germany: 6 brands
+  Total Market Cap: $405,000,000,000
+  Average Market Cap: $81,000,000,000
+  Brands: Volkswagen AG, BMW AG, Audi AG + 3 more
+
+United States: 5 brands
+  Total Market Cap: $910,000,000,000
+  Average Market Cap: $303,333,333,333
+  Brands: Tesla Inc., Ford Motor Company, General Motors (Chevrolet) + 2 more
+
+Italy: 5 brands
+  Total Market Cap: $130,000,000,000
+  Average Market Cap: $65,000,000,000
+  Brands: Ferrari N.V., Fiat Chrysler (Stellantis), Lamborghini S.p.A. + 2 more
+
+France: 3 brands
+  Total Market Cap: $70,000,000,000
+  Average Market Cap: $35,000,000,000
+  Brands: Peugeot S.A., Renault S.A., Citroën
+
+Sweden: 2 brands
+  Total Market Cap: N/A
+  Average Market Cap: N/A
+  Brands: Volvo Cars, Saab Automobile
+
+South Korea: 2 brands
+  Total Market Cap: $57,000,000,000
+  Average Market Cap: $28,500,000,000
+  Brands: Hyundai Motor Company, Kia Corporation
+
+Spain: 1 brands
+  Total Market Cap: N/A
+  Average Market Cap: N/A
+  Brands: SEAT S.A.
+
+Czech Republic: 1 brands
+  Total Market Cap: N/A
+  Average Market Cap: N/A
+  Brands: Škoda Auto
+
+============================================================
+AUTOMOTIVE BRANDS BY FOUNDING PERIOD
+============================================================
+
+1900-1919: 12 brands
+  BMW AG, Audi AG, Ford Motor Company, General Motors (Chevrolet), Cadillac Motor Car Division + 7 more
+
+1920-1939: 9 brands
+  Toyota Motor Corporation, Volkswagen AG, Mercedes-Benz Group AG, Porsche AG, Ferrari N.V. + 4 more
+
+1940-1959: 8 brands
+  Honda Motor Co., Jeep, Land Rover, MINI, Subaru Corporation + 3 more
+
+1960-1979: 3 brands
+  Hyundai Motor Company, Lamborghini S.p.A., Mitsubishi Motors Corporation
+
+1980-1999: 1 brands
+  Lexus
+
+2000+: 1 brands
+  Tesla Inc.
+
+Pre-1900: 5 brands
+  Opel Automobile GmbH, Peugeot S.A., Renault S.A., Fiat Chrysler (Stellantis), Škoda Auto
+
+============================================================
+AUTOMOTIVE BRANDS BY ZODIAC SIGN
+============================================================
+
+Cancer: 7 brands (Avg: $202,000,000,000)
+  Tesla Inc., Audi AG, Mercedes-Benz Group AG, Jeep + 3 more
+
+Capricorn: 5 brands (Avg: $25,500,000,000)
+  Hyundai Motor Company, Peugeot S.A., Bentley Motors, Aston Martin Lagonda + 1 more
+
+Virgo: 4 brands (Avg: $162,500,000,000)
+  Toyota Motor Corporation, Ferrari N.V., Jaguar Land Rover, MINI
+
+Taurus: 4 brands (Avg: $46,500,000,000)
+  Porsche AG, Land Rover, Mitsubishi Motors Corporation, SEAT S.A.
+
+Sagittarius: 4 brands (Avg: $22,000,000,000)
+  Maserati S.p.A., Kia Corporation, Saab Automobile, Škoda Auto
+
+Pisces: 3 brands (Avg: $45,000,000,000)
+  BMW AG, Renault S.A., Rolls-Royce Motor Cars
+
+Gemini: 3 brands (Avg: $85,000,000,000)
+  Volkswagen AG, Ford Motor Company, Citroën
+
+Scorpio: 2 brands (Avg: $60,000,000,000)
+  General Motors (Chevrolet), Lamborghini S.p.A.
+
+Libra: 2 brands (Avg: $34,000,000,000)
+  Honda Motor Co., Suzuki Motor Corporation
+
+Leo: 2 brands (Avg: N/A)
+  Cadillac Motor Car Division, Lexus
+
+Aquarius: 2 brands (Avg: $20,000,000,000)
+  Opel Automobile GmbH, Mazda Motor Corporation
+
+Aries: 1 brands (Avg: N/A)
+  Volvo Cars
+
+============================================================
+AUTOMOTIVE BRAND FOUNDERS
+============================================================
+Total Founders with Data: 30
+Founders of Publicly Traded Brands: 18
+
+Top Automotive Founders by Brand Value:
+  Elon Musk (Tesla Inc.) - $800,000,000,000
+    Born: 1971-06-28 (Cancer)
+  Kiichiro Toyoda (Toyota Motor Corporation) - $250,000,000,000
+    Born: 1894-06-11 (Gemini)
+  Ferdinand Porsche (Porsche AG) - $85,000,000,000
+    Born: 1875-09-03 (Virgo)
+  Gottlieb Daimler (Mercedes-Benz Group AG) - $75,000,000,000
+    Born: 1834-03-17 (Pisces)
+  Enzo Ferrari (Ferrari N.V.) - $75,000,000,000
+    Born: 1898-02-18 (Aquarius)
+
+============================================================
+LUXURY VS MASS MARKET ANALYSIS
+============================================================
+Luxury Brands Average Market Cap: $54,000,000,000
+Luxury Brands Count: 3
+Mass Market Brands Average Market Cap: $94,631,578,947
+Mass Market Brands Count: 19
+
+================================================================================
